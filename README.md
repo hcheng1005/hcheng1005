@@ -6,8 +6,7 @@
 <p>
   
 [![Github Stars](https://img.shields.io/github/stars/hcheng1005?color=faf408&label=github%20stars&logo=github)](https://github.com/hcheng1005)
-![Profile View Counter](https://komarev.com/ghpvc/?username=hcheng1005)
-
+![Profile View Counter](https://komarev.com/ghpvc/?username=hcheng1005&color=blue&label=Profile+Views)
 </p>
 
 ---
