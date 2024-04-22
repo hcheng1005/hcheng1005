@@ -11,11 +11,6 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/hcheng1005/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcheng1005&hide=javascript,html,css,vue" />
-  </a>
-  <a href="https://github.com/hcheng1005/github-readme-stats">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=hcheng1005&show_icons=true" />
-  </a>
-</p>
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcheng1005&hide=javascript,html,css,vue)](https://github.com/hcheng1005/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hcheng1005&show_icons=true)
